@@ -6,7 +6,7 @@
 </a>
 
 ## About me
-I'm 21.  
+I'm 22.  
 I am studying video game programming in France.  
 I've started programming since I don't remember when in middle school and started studying video game since 2019.
 
