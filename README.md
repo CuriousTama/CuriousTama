@@ -22,7 +22,7 @@ I've started programming since I don't remember when in middle school and starte
 &nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/unity.svg" height="60"> <!-- -->
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/dev/Docs/UE.png" height="60"> <!-- -->
+<img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/UE.png" height="60"> <!-- -->
 
 ###### Languages less practiced, but known
 <img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/javascript.svg" height="60"> <!-- -->
