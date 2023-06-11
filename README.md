@@ -29,6 +29,3 @@ I've started programming since I don't remember when in middle school and starte
 &nbsp; 
 <img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/python.svg" height="60"> <!-- -->
 <img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/java.svg" height="70"> <!-- -->
-
-##
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tama-sama&theme=dracula&show_icons=true&hide_border=true&count_private=true&hide=issues)
