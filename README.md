@@ -6,7 +6,7 @@
 </a>
 
 ## About me
-I'm 22.  
+I'm 23.  
 I am Junior Gameplay Programmer in France.  
 I've started programming since I don't remember when in middle school and started studying video game since 2019.
 
