@@ -1,31 +1,32 @@
-<!-- this is how to make spaces (&nbsp;) -->
-## Hellow ! 👋
+## Hellow there! 👋
 
-<a href="https://github.com/Tama-sama">
-<img width="35px" src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/GitLogo.png" />
-</a>
+<p>
+I am a Junior Gameplay Programmer working in France.  <br>
+I mainly work with C++ and sometimes C#, I have started programming in 2018.
+</p>
 
-## About me
-I'm 22.  
-I am studying video game programming in France.  
-I've started programming since I don't remember when in middle school and started studying video game since 2019.
+<p>
+I am professionally working this these languages: <br>
+<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/language/cpp.svg" height="30">
+<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/language/csharp_dotnet.svg" height="30">
+</p>
+
+<p>
+But I also learned and toyed with these languages: <br>
+<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/language/c.svg" height="30"> 
+<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/language/javascript.svg" height="30">
+<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/language/python.svg" height="30">
+<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/language/java.svg" height="30">
+</p> 
+
+<p>
+and used game frameworks: <br>
+<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/framework/sfml.svg" height="30">
+<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/framework/unity.svg" height="30">
+<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/framework/unreal.svg" height="30">
+</p>
 
 ##
 
-##### Languages
-<img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/c.svg" height="70"> <!-- -->
-<img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/c++.svg" height="70"> <!-- -->
-<img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/c%23.svg" height="70"> <!-- -->
-
-##### Engines
-<img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/SFML.svg" height="60"> <!-- -->
-&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/unity.svg" height="60"> <!-- -->
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/UE.png" height="60"> <!-- -->
-
-###### Languages less practiced, but known
-<img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/javascript.svg" height="60"> <!-- -->
-&nbsp; 
-<img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/python.svg" height="60"> <!-- -->
-<img src="https://raw.githubusercontent.com/Tama-sama/Tama-sama/main/Docs/java.svg" height="70"> <!-- -->
+You can contact me here if you feel like it: 
+[<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/contact/email.svg">](mailto:m.maillard@vivaldi.net) <!-- --> [<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/contact/linkedin.svg">](https://www.linkedin.com/in/martin-maillard-78b5a924a/)
