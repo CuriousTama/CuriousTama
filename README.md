@@ -28,5 +28,5 @@ and used game frameworks: <br>
 
 ##
 
-You can contact me here if you feel like it: 
+You can contact me here if you feel like it: <br>
 [<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/contact/email.svg">](mailto:m.maillard@vivaldi.net) <!-- --> [<img src="https://raw.githubusercontent.com/CuriousTama/CuriousTama/main/Docs/contact/linkedin.svg">](https://www.linkedin.com/in/martin-maillard-78b5a924a/)
